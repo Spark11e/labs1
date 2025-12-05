@@ -1,3 +1,4 @@
+# была строка
 import time
 def console_greeting():
   name = input("Введите ваше имя: ")
