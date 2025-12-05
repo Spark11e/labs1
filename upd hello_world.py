@@ -1,3 +1,5 @@
+#Комментарии где
+
 import time
 
 def console_greeting():
