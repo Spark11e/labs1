@@ -1,4 +1,4 @@
-# была строка
+#Новый коммент, ещё один
 import time
 def console_greeting():
   name = input("Введите ваше имя: ")
